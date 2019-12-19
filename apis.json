@@ -1,0 +1,86 @@
+{
+    "name": "agendize",
+    "description": "Agendize is the most complete customer engagement platform on the market, providing over 100,000 businesses with customizable ways to let their customers call, chat, book appointments and more.    As a leading provider of these solutions, Agendize has ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/322-agendize.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "no api definition",
+        "target"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/agendize\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "agendize",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/322-agendize.jpg",
+            "humanURL": "http:\/\/www.agendize.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/agendize-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/agendize-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.agendize.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/agendize"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/agendize"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/agendize"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.agendize.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@agendize.com"
+        },
+        {
+            "type": "Email",
+            "url": "mexico@agendize.com"
+        },
+        {
+            "type": "Email",
+            "url": "help@agendize.com"
+        },
+        {
+            "type": "Email",
+            "url": "Legal@agendize.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/agendizedev"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/agendize"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.agendize.com\/"
+        }
+    ]
+}
